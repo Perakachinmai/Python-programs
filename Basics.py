@@ -1,4 +1,4 @@
-print(9)
+print(10)
 #print(a)
 print("abcd")
 #script mode
