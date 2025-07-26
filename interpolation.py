@@ -1,5 +1,5 @@
 name="Chinnu"
-age=30
+age=40
 new_age = 5
 #print("My name is" +name +"im" +age+" years old.")
 #TypeError: can only concatenate str (not "int") to str
