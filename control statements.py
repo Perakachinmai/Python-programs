@@ -73,7 +73,7 @@ match choice:
 
 #Nested conditions Scenario
 #club Entry --> if age is 21 or above and also a valid ID should be present
-age=20
+age=21
 has_id=True #false ->you neeed an id to enter
 
 if age>=21:
