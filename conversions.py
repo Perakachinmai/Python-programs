@@ -16,4 +16,4 @@ print(e)
 x=100
 y=float(x)
 print(type(y))
-print(y)
+print(yy)
