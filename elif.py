@@ -1,5 +1,5 @@
 
-age = 5
+age = 1
 
 if age == 0 or age == 1 or age == 2 or age==3 or age == 4:
     category = "Toddler" 
