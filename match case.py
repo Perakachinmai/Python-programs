@@ -1,4 +1,4 @@
-age = 2
+age = 5
 
 match age:
     case 0 | 1 | 2 | 3 | 4:
