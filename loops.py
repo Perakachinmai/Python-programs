@@ -64,7 +64,7 @@ for i in range(10):
 for i in range(3,10):
     print("g")
 
-for i in range(1,10,2):
+for i in range(1,10,3):
     print(i)
 
 
